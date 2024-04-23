@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_2-4-TriangleNumber
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_2-5-StudentObject", "Homework_2-5-StudentObject\Homework_2-5-StudentObject.csproj", "{654AC608-5495-4C4B-B66D-973F32E0E0B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework-RectangleClass", "Homework-RectangleClass\Homework-RectangleClass.csproj", "{A404119B-2354-4EC4-915B-1A32C3CFD886}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,6 +116,12 @@ Global
 		{654AC608-5495-4C4B-B66D-973F32E0E0B7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{654AC608-5495-4C4B-B66D-973F32E0E0B7}.Test|Any CPU.ActiveCfg = Debug|Any CPU
 		{654AC608-5495-4C4B-B66D-973F32E0E0B7}.Test|Any CPU.Build.0 = Debug|Any CPU
+		{A404119B-2354-4EC4-915B-1A32C3CFD886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A404119B-2354-4EC4-915B-1A32C3CFD886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A404119B-2354-4EC4-915B-1A32C3CFD886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A404119B-2354-4EC4-915B-1A32C3CFD886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A404119B-2354-4EC4-915B-1A32C3CFD886}.Test|Any CPU.ActiveCfg = Debug|Any CPU
+		{A404119B-2354-4EC4-915B-1A32C3CFD886}.Test|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
