@@ -16,7 +16,7 @@ internal class Program
             // 目標
             // 第1、3、5個Element(元素) 目標，請注意Array是0開始
             // ||是 或(OR)，任意條件成立就算if成立
-            if (currentIndex ==  || currentIndex ==  || currentIndex == )
+            if (currentIndex == 0 || currentIndex == 2 || currentIndex == 3)
             {
                 Console.WriteLine($"跑到第{i + 1}，數字是{targetNumber}");
             }

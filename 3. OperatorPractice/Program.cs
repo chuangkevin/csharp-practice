@@ -34,11 +34,11 @@ internal class Program
 
         // 目標
         // 請完成 判斷是否為2的倍數
-        if ()
+        if (inputNumber % 2 == 0 && inputNumber % 5 == 0)
         {
             Console.WriteLine("這是2與5的倍數");
         }
-        else if ()
+        else if (inputNumber % 2 == 0)
         {
             Console.WriteLine("這是2的倍數");
         }

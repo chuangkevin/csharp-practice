@@ -23,7 +23,7 @@ internal class Program
         // 10
         for (int i = 1; i <= count; i++)
         {
-            Console.WriteLine(
+            Console.WriteLine(i);
         }
         Console.ReadLine();
     }
